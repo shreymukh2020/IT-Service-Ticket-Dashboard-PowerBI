@@ -34,7 +34,7 @@
  
  ➡️ PowerPoint-Designed Report Background – Created a clean, branded layout for polished presentation
 
- ![image]()
+ ![image](https://github.com/shreymukh2020/IT-Service-Ticket-Dashboard-PowerBI/blob/main/IT%20Service%20Ticket%20Linkedin.png)
 
 Link to the report: https://lnkd.in/e9CN62th
  
